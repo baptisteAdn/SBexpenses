@@ -1,0 +1,2 @@
+# SBexpenses
+Tricount like app
